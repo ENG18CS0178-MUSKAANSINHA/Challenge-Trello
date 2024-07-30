@@ -1,1 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+nav {
+  background-color: #282c34;
+  padding: 1rem;
+}
+
+nav a {
+  color: white;
+  margin: 0 1rem;
+  text-decoration: none;
+}
+
+nav button {
+  background: none;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+form {
+  margin: 1rem 0;
+}
+
+ul {
+  list-style-type: none;
+}
 
